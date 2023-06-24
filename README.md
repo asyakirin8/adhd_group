@@ -1,6 +1,10 @@
 # adhd_group
+Group Member:
+1. Mohamad Amir Syakirin Bin Shafie (1826571)
+2. Ahmad Hakimi Bin Ahmad Rasidi (2013793)
+3. Muhammad Zolkharnain Fahmi Bin Abd Rahman (1922617)
 
-A new Flutter project.
+This our Project for Mobile Application Development
 
 ## Getting Started
 
