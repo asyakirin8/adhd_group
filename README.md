@@ -18,7 +18,6 @@ In this project, we use firebase to store the user login data.Below is the dummy
 email : test@gmail.com
 password : 123456
 
-#Antat
 # Project summary (News API)
 For News App page we use the API to get the data. Below is the API we use to get the data. This APi can be seen
 in api_service.dart
