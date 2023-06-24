@@ -33,7 +33,7 @@ class GetStartedScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    "Welcome",
+                    "Welcome to News Apps",
                     style: TextStyle(
                       color: Colors.black,
                       fontSize: 60.0,
